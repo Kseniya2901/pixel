@@ -68,3 +68,13 @@ body {
 .selected {
     border: 3px solid red;
 }
+
+.github-contour {
+    display: flex;
+    justify-content: flex-end;
+    width: 60vw;
+}
+
+.github-contour > a {
+    color: blue;
+}
